@@ -32,7 +32,7 @@ padding: 0;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: black;
+    background-color: rgb(61, 60, 60);
     padding: 90px;
 }
 .banner-section{
@@ -57,4 +57,27 @@ padding: 0;
     font-weight: 700;
     border-radius: 2px;
     border: none;
+}
+/* about */
+.about-head{
+    text-align: center;
+    font-size: 40px;
+    font-weight:700 ;
+    margin-top: 20px;
+}
+.about{
+    display: flex;
+    justify-content: space-around;
+    align-items: self-start;
+    padding: 60px 90px;  
+}
+.about-section h4{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.about-section p{
+    font-size: 18px;
+}
+.banner-btn{
+    margin-top: 10px;
 }
