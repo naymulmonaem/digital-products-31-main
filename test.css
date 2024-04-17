@@ -81,3 +81,49 @@ padding: 0;
 .banner-btn{
     margin-top: 10px;
 }
+/* service */
+.service-div{
+    background-color: rgb(58, 56, 56);
+  padding-bottom: 20px;
+}
+.service-title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    color: aliceblue;
+    padding: 50px ;
+}
+.service-article{
+    background-color: rgb(58, 56, 56);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.digital-art{
+    width: 230px;
+    height: 320px;
+    box-shadow:4px 4px 15px gray ;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    color: white;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+.icon{
+    width: 70px;
+}
+.digital-art p{
+    margin-top: 10px;
+    line-height: 30px;
+}
+.digital-art h3, img{
+    margin-top: 10px;
+}
+.btn-details{
+    background-color: grey;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 10px;
+}
