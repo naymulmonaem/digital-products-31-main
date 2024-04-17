@@ -27,3 +27,34 @@ padding: 0;
     cursor: grab;
     font-size: 24px;
 }
+/* banner */
+.banner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    padding: 90px;
+}
+.banner-section{
+    color: white;  
+}
+.banner-section h2{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.banner-section p{
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+.banner-image{
+    width: 400px;
+}
+.banner-btn{
+    background-color: orangered;
+    color: aliceblue;
+    font-size: 16px;
+    padding: 10px 20px;
+    font-weight: 700;
+    border-radius: 2px;
+    border: none;
+}
